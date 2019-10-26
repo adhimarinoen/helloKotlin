@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="txtA"></string>
+    <string name="txtB"></string>
+    <string name="btnTambah">+</string>
+    <string name="btnKurang">-</string>
+    <string name="btnKali">x</string>
+    <string name="tvHasil">0</string>
+    <string name="btnBagi">:</string>
+</resources>
